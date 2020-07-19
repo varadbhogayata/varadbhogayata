@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+* See my portfolio: https://varadbhogayata.github.io
+* Connect with me on Linkedin: https://www.linkedin.com/in/varadbhogayata
 <!--
 **varadbhogayata/varadbhogayata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
