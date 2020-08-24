@@ -1,6 +1,6 @@
 <img align="right" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="Coder GIF" width="420" height="330">
 
-<h2> नमस्ते (Namaste)🙏🏻, I am Varad Bhogayata 👋</h2>
+<h3> नमस्ते (Namaste)🙏🏻, I am Varad Bhogayata 👋</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-varadbhogayata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varadbhogayata/)](https://www.linkedin.com/in/varadbhogayata/)
 [![Gmail Badge](https://img.shields.io/badge/-vbhogayata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vbhogayata@gmail.com)](mailto:vbhogayata@gmail.com) 
