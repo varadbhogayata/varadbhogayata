@@ -32,13 +32,15 @@
 
 
 ### :zap: Github Stats
-<p>
-    <a href="https://gitstats.me/varadbhogayata" target="_blank"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=varadbhogayata&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
-    </a>
-</p>
+## Star History
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varadbhogayata&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<a href="https://www.star-history.com/?repos=varadbhogayata%2Fvaradbhogayata.github.io&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=varadbhogayata/varadbhogayata.github.io&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=varadbhogayata/varadbhogayata.github.io&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=varadbhogayata/varadbhogayata.github.io&type=date&legend=top-left" />
+ </picture>
+</a>
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
